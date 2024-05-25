@@ -173,9 +173,6 @@ ul li a:hover {
   place-items: center;
   
 }
-.img{
-  border-radius: 8px;
-}
 
 .image img {
   width: min(25rem, 90%);
