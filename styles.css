@@ -171,8 +171,10 @@ ul li a:hover {
 .image {
   display: grid;
   place-items: center;
-  border-radius :5px;
   
+}
+.img{
+  border-radius: 8px;
 }
 
 .image img {
