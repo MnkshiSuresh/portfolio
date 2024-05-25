@@ -171,7 +171,7 @@ ul li a:hover {
 .image {
   display: grid;
   place-items: center;
-  
+
 }
 
 .image img {
@@ -425,11 +425,11 @@ ul li a:hover {
 .details {
   text-align: center;
   margin-top: 50px;
-  
+
 }
 
 .details p {
-  
+
   margin-bottom: 10px;
 }
 .message {
@@ -555,4 +555,3 @@ ul li a:hover {
   width:400px;
   margin-bottom: 20px;
 }
-
